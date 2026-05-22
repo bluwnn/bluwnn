@@ -1,14 +1,13 @@
 <table>
+
 <tr>
 
-<td width="35%" valign="top">
+<td width="30%" valign="top">
 
 <img
 src="https://github.com/user-attachments/assets/4eba4546-2205-4adf-a9af-609ca943b2e6"
-width="260"
+width="430"
 />
-
-<br><br>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,git,figma" />
@@ -16,7 +15,7 @@ width="260"
 
 </td>
 
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 <h2>🌤️ About Me</h2>
 
