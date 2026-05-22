@@ -2,7 +2,7 @@
 
 <tr>
 
-<td width="30%" valign="top">
+<td width="25%" valign="top">
 
 <img
 src="https://github.com/user-attachments/assets/4eba4546-2205-4adf-a9af-609ca943b2e6"
