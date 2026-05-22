@@ -4,11 +4,19 @@
 <td width="35%" valign="top">
 
 <img
-src= "https://github.com/user-attachments/assets/4eba4546-2205-4adf-a9af-609ca943b2e6" />
+src="https://github.com/user-attachments/assets/4eba4546-2205-4adf-a9af-609ca943b2e6"
+width="260"
+/>
+
+<br><br>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,figma" />
+</p>
 
 </td>
 
-<td width="100%" valign="top">
+<td width="65%" valign="top">
 
 <h2>🌤️ About Me</h2>
 
@@ -23,6 +31,7 @@ Hi, I'm <b>Bluw</b> 👋<br><br>
 🎵 J-Pop Listener<br>
 🎧 Larping as an audiophile
 </p>
+
 </td>
 
 </tr>
