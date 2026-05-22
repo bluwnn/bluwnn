@@ -8,7 +8,7 @@ src= "https://github.com/user-attachments/assets/4eba4546-2205-4adf-a9af-609ca94
 
 </td>
 
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 <h2>🌤️ About Me</h2>
 
@@ -16,23 +16,14 @@ src= "https://github.com/user-attachments/assets/4eba4546-2205-4adf-a9af-609ca94
 Hi, I'm <b>Bluw</b> 👋<br><br>
 
 🎓 2nd Year Computer Science Student<br>
-🌱 Learning programming one bug at a time<br>
+🌱 Still learning the ropes<br>
 💻 Interested in Front-End Development<br>
 🎨 Graphic Design Enthusiast<br>
 ☕ Coffee Enjoyer<br>
-🎮 Gamer<br>
-🎵 J-Pop Listener
+🎮 GAMEEEEEE<br>
+🎵 J-Pop Listener<br>
+🎧 Larping as an audiophile
 </p>
-
-<h3>Currently Learning</h3>
-
-<ul>
-<li>HTML, CSS & JavaScript</li>
-<li>React</li>
-<li>Git & GitHub</li>
-<li>Database Fundamentals</li>
-</ul>
-
 </td>
 
 </tr>
