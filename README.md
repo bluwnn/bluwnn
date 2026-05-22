@@ -4,9 +4,7 @@
 <td width="35%" valign="top">
 
 <img
-src= "https://x.com/i/status/1303633746038382593"
-width="280"
-/>
+src= "https://github.com/user-attachments/assets/4eba4546-2205-4adf-a9af-609ca943b2e6" />
 
 </td>
 
