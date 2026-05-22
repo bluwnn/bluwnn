@@ -1,5 +1,5 @@
+<div align="center">
 <table>
-
 <tr>
 
 <td width="50%" valign="center">
@@ -15,7 +15,7 @@ width="430"
 
 </td>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top" align="left">
 
 <h2>🌤️ About Me</h2>
 
@@ -35,3 +35,4 @@ Hi, I'm <b>Bluw</b> 👋<br><br>
 
 </tr>
 </table>
+</div>
